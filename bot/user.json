@@ -1,0 +1,5 @@
+{
+    "id": "your_email",
+    "pass": "your_pass",
+    "driver_path": "absolute_path_for_chromedriver"
+}
