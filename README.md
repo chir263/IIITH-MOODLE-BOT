@@ -18,7 +18,7 @@ Check Chrome version
 
 `Help > About Google Chrome`
 
-download chromedriver for to your chrome version
+download chromedriver for your chrome version
 
 https://chromedriver.chromium.org/downloads
 
